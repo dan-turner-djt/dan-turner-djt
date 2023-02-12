@@ -1,4 +1,4 @@
-Dan Turner - 4th Year Computer Science Student
+Dan Turner - Software Developer
 
 This is a git repository to showcase various projects I have worked / am currently working on. 
 The repo contains a mixture of university projects and personal projects.
